@@ -1,6 +1,6 @@
-# Evaluation of "fetching" in java script
+# Evolution of "fetching" in java script
 # fetching APIs with different methods
-## This project is done using the forkify-api .com (displaying food lists names) to show the evaluation of using the fetch("API",true) method introduced in ES6.
+## This project is done using the forkify-api .com (displaying food lists names) to show the evolution of using the fetch("API",true) method introduced in ES6.
 1- in the first part of the code i used the deprecated way which was done by using callback functions and calling them at the end as one function as the parameter of the other :
 
 getSalad(function () {
